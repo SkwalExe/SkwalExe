@@ -14,5 +14,14 @@
 ### [Contact](mailto:leopoldikop@gmail.com)
 ### [Twitter](https://twitter.com/SkwalExe)
 
+# Prejects
+<ul>
+  <li><a href="http://skwal.net/" taget="_blank">Skwal.net</a></li>  
+  <li><a href="http://skwal.net/HackerScreen/" taget="_blank">Fake Hacker Screen</a></li>  
+  <li><a href="http://skwal.net/FakeScan/" taget="_blank">Fake Virus Alert</a></li>  
+  <li><a href="http://skwal.net/matrixRain/" taget="_blank">Matrix Rain Effect</a></li>  
+  <li><a href="https://discord.com/api/oauth2/authorize?client_id=739794179072196704&permissions=8&redirect_uri=http%3A%2F%2Fshadoune.000webhostapp.com%2F&response_type=code&scope=bot%20guilds.join" taget="_blank">Discord Bot</a></li>  
+
+</ul>
 
 # That's me
