@@ -1,7 +1,7 @@
 # Hi there 👋
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkwalExe&langs_count=10&theme=gradient" alt="SkwalExe :: Top Langs" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SkwalExe&show_icons=true&theme=gradient" alt="SkwalExe :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkwalExe&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="SkwalExe :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SkwalExe&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="SkwalExe :: Profile Stats" /></p>
 
 # Visitor count
 
