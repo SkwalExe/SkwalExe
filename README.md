@@ -9,3 +9,7 @@
 
 # Links 📎
 ### [Discord](https://discord.com/invite/U4ryW8Y)
+### [YouTube](https://YouTube.com/Skwal)
+### [Website 🌐](http://Skwal.net)
+### [Contact](mailto:leopoldikop@gmail.com)
+### [Twitter](https://twitter.com/SkwalExe)
