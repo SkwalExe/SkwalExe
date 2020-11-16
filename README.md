@@ -8,11 +8,14 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{SkwalExe}/count.svg" alt="SkwalExe :: Visitor's Count" /></p>
 
 # Links 📎
-### [Discord](https://discord.com/invite/U4ryW8Y)
-### [YouTube](https://YouTube.com/Skwal)
-### [Website 🌐](http://Skwal.net)
-### [Contact](mailto:leopoldikop@gmail.com)
-### [Twitter](https://twitter.com/SkwalExe)
+<ul>
+  <li>[Discord](https://discord.com/invite/U4ryW8Y)</li>
+  <li>[YouTube](https://YouTube.com/Skwal)</li>
+  <li>[Website 🌐](http://Skwal.net)</li>
+  <li>[Contact](mailto:leopoldikop@gmail.com)</li>
+  <li>[Twitter](https://twitter.com/SkwalExe)</li>
+</ul>
+
 
 # Prejects
 <ul>
