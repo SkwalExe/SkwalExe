@@ -1,5 +1,5 @@
 # Hi there 👋
-<div display="flex">
+<div style="display: flex; align-content: center;">
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkwalExe&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"          alt="SkwalExe :: Top Langs" /></p>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SkwalExe&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="SkwalExe      :: Profile Stats" /></p>
 </div>
