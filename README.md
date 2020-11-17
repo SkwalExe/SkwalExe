@@ -43,6 +43,9 @@
 
 ➡️ [more videos...](https://youtube.com/Skwal)
 
+# Activity
+<!--START_SECTION:activity-->
 ---
+
 
 # That's me
