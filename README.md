@@ -29,4 +29,16 @@
 
 </ul>
 
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/Skwal)
+
+---
+
 # That's me
