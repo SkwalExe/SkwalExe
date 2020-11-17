@@ -43,14 +43,12 @@
 
 ➡️ [more videos...](https://youtube.com/Skwal)
 
-# Activity<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+# Activity
+<summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
-</details>
 ---
 
 
