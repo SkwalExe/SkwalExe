@@ -14,7 +14,7 @@
   <li><a href="https://discord.com/invite/U4ryW8Y" target="_blank" >Discord</a></li>
   <li><a href="https://YouTube.com/Skwal" target="_blank" >YouTube</a></li>
   <li><a href="http://Skwal.net" target="_blank" >Website 🌐</a></li>
-  <li><a href="mailto:leopoldikop@gmail.com" target="_blank" >Contact</a></li>
+  <li><a href="mailto:support@skwal.net" target="_blank" >Contact</a></li>
   <li><a href="https://twitter.com/SkwalExe" target="_blank" >Twitter</a></li>
 </ul>
 
