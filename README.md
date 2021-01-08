@@ -34,11 +34,11 @@
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Faire un BOT Discord en Javascript [ 5 / ? ]](https://www.youtube.com/watch?v=MGxgKX14rE0)
 - [Faire un BOT Discord en Javascript [ 4 / ? ]](https://www.youtube.com/watch?v=3WT42_ymaog)
 - [Faire un BOT Discord en Javascript [ 3 / ? ]](https://www.youtube.com/watch?v=1cIJCmeKBks)
-- [Cette video a 470 vues](https://www.youtube.com/watch?v=fZpU2RMfcyg)
+- [Cette video a 472 vues](https://www.youtube.com/watch?v=fZpU2RMfcyg)
 - [Faire un BOT Discord en Javascript [ 2 / ? ]](https://www.youtube.com/watch?v=AZiY_qfNN58)
-- [J'APPELLE DES FAUX TECH MICROSOFT, JE ME FAIS INSULTER](https://www.youtube.com/watch?v=seh2OUKBQGw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/Skwal)
