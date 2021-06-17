@@ -34,6 +34,7 @@
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Découverte de Windows 11 - Avant premiere](https://www.youtube.com/watch?v=Bc6A6zkAZUE)
 - [YouTube suppriment ma chaine ?! 😡](https://www.youtube.com/watch?v=fBFxdknEmuY)
 <!-- YOUTUBE:END -->
 
