@@ -34,6 +34,7 @@
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [MEMZ.exe - Windows Desctruction - Virus Test 01](https://www.youtube.com/watch?v=R4Lgvx0qfQ4)
 - [YouTube suppriment ma chaine ?! 😡](https://www.youtube.com/watch?v=fBFxdknEmuY)
 <!-- YOUTUBE:END -->
 
