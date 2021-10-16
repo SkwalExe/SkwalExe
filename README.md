@@ -34,6 +34,7 @@
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [000.exe - Windows Desctruction - Virus Test 02 - How to remove 000.exe](https://www.youtube.com/watch?v=01Hr3y39NNk)
 - [MEMZ.exe - Windows Desctruction - Virus Test 01](https://www.youtube.com/watch?v=R4Lgvx0qfQ4)
 - [YouTube suppriment ma chaine ?! 😡](https://www.youtube.com/watch?v=fBFxdknEmuY)
 <!-- YOUTUBE:END -->
