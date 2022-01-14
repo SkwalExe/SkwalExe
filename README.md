@@ -1,15 +1,12 @@
-# Hi there 👋
-<div style="display: flex; align-content: center;">
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkwalExe&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"          alt="SkwalExe :: Top Langs" /></p>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SkwalExe&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="SkwalExe      :: Profile Stats" /></p>
-</div>
 
-
-# Visitor count
-
-<p align="center"><img src="https://profile-counter.glitch.me/{SkwalExe}/count.svg" alt="SkwalExe :: Visitor's Count" /></p>
-
-# Links 📎
+# Hi there 👋 
+![gif](https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif)  ![gif](https://68.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif) 
+## I'm Skwal
+I'm the founder of Skwal.net, I'm 13 y/o 
+I speak French 🇫🇷 and English 🇺🇸 
+## Visitor count
+![Visitor Count](https://profile-counter.glitch.me/%7BSkwalExe%7D/count.svg)
+## Links 📎
 <ul>
   <li><a href="https://discord.com/invite/U4ryW8Y" target="_blank" >Discord</a></li>
   <li><a href="https://YouTube.com/Skwal" target="_blank" >YouTube</a></li>
@@ -18,36 +15,10 @@
   <li><a href="https://twitter.com/SkwalExe" target="_blank" >Twitter</a></li>
 </ul>
 
-
-# Prejects
-<ul>
-  <li><a href="http://skwal.net/" taget="_blank">Skwal.net</a></li>  
-  <li><a href="http://skwal.net/HackerScreen/" taget="_blank">Fake Hacker Screen</a></li>  
-  <li><a href="http://skwal.net/FakeScan/" taget="_blank">Fake Virus Alert</a></li>  
-  <li><a href="http://skwal.net/matrixRain/" taget="_blank">Matrix Rain Effect</a></li>  
-  <li><a href="https://discord.com/api/oauth2/authorize?client_id=739794179072196704&permissions=8&redirect_uri=http%3A%2F%2Fshadoune.000webhostapp.com%2F&response_type=code&scope=bot%20guilds.join" taget="_blank">Discord Bot</a></li>  
-
-</ul>
+### very funny joke :)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
+![Years badge](https://badges.pufler.dev/years/SkwalExe)  ![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)
 
-# 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [000.exe - Windows Desctruction - Virus Test 02 - How to remove 000.exe](https://www.youtube.com/watch?v=01Hr3y39NNk)
-- [MEMZ.exe - Windows Desctruction - Virus Test 01](https://www.youtube.com/watch?v=R4Lgvx0qfQ4)
-- [YouTube suppriment ma chaine ?! 😡](https://www.youtube.com/watch?v=fBFxdknEmuY)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/Skwal)
-
-# Activity
-<summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
----
-
-
-# That's me
+I use arch btw
