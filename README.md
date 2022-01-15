@@ -19,6 +19,6 @@ I speak French 🇫🇷 and English 🇺🇸
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-![Years badge](https://badges.pufler.dev/years/SkwalExe)  ![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)
+![Years badge](https://badges.pufler.dev/years/SkwalExe)  ![Commits Badge](https://badges.pufler.dev/commits/monthly/SkwalExe)
 
 I use arch btw
