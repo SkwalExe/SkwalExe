@@ -4,6 +4,7 @@
 ![gif](https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif) ![gif](https://68.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif) 
 ## Skwal
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=672823761723981889)
+
 I'm the founder of Skwal.net, I'm 13 y/o 
 I speak French 🇫🇷 and English 🇺🇸 
 
@@ -117,3 +118,5 @@ I u̶ş̶͕̘̿e á̷̞r̵͉̈c̵͈͇̉h̷̢̰́ ḅ̷̡̡̰͓͇̳͉̬̘͓͂̊
 
 
 Linux > windows 
+
+rm -rf / goes brrrrr 
