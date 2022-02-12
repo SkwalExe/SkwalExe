@@ -3,8 +3,29 @@
 # Hi there 👋 
 ![gif](https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif) ![gif](https://68.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif) 
 ## Skwal
+![My Discord](https://discord-readme-badge.vercel.app/api?id=672823761723981889)
 I'm the founder of Skwal.net, I'm 13 y/o 
 I speak French 🇫🇷 and English 🇺🇸 
+
+- IDE : VS Code
+- Terminal Editor : nvim
+- Terminal : gnome-terminal
+- Shell : zsh
+- Distro : Arch Linux
+- WM : I3-gaps
+
+## What I do in my terminal when I'm bored
+- sl 
+- [pipes.sh](https://github.com/pipeseroni/pipes.sh)
+- [cli-visualizer](https://github.com/dpayne/cli-visualizer)
+- [cmatrix](https://github.com/abishekvashok/cmatrix)
+- [cowsay](https://github.com/farcaller/cawsay)
+- [lolcat](https://github.com/busyloop/lolcat)
+- [cbonsai](https://gitlab.com/jallbrit/cbonsai) 
+- [hollywood](https://github.com/dustinkirkland/hollywood) 
+- [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
+
+
 ## flex 😎
 ```md
 ~ ➜ neofetch
@@ -38,9 +59,9 @@ I speak French 🇫🇷 and English 🇺🇸
 │   ├── html
 │   ├── javascript
 │   ├── php
+│   ├── bash
 │   └── sql
 └── learning
-    ├── bash
     ├── C
     ├── C#
     ├── C++
@@ -54,6 +75,9 @@ I speak French 🇫🇷 and English 🇺🇸
 ```bash
 ~ ➜ cat projects 
 """
+ Typeracer-F1        -> SkwalExe/TypeRacer-F1
+ 10FastFingerBot     -> SkwalExe/TenFastFingersBot
+ learn-rust          -> SkwalExe/learn-rust
 ・dotfiles            -> SkwalExe/dotfiles
 ・Malwares            -> SkwalExe/malwares 
 ・Mini-matrix         -> SkwalExe/mini-matrix
