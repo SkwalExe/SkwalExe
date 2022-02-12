@@ -3,7 +3,8 @@
 # Hi there 👋 
 ![gif](https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif) ![gif](https://68.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif) 
 ## Skwal
-![My Discord](https://discord-readme-badge.vercel.app/api?id=672823761723981889)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkwalExe&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 I'm the founder of Skwal.net, I'm 13 y/o 
 I speak French 🇫🇷 and English 🇺🇸 
