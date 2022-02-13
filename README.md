@@ -3,7 +3,19 @@
 # Hi there 👋
 ![banner](banner.png)
 
+
+## Patreons / sponsors
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/jcbevc"><img src="https://avatars.githubusercontent.com/u/58481820?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jcbevc</b></sub></a><br />
+    1€ / Month 🙏
+    </td>
+  </tr>
+</table>
+
 ## Skwal
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkwalExe&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SkwalExe&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)
@@ -32,6 +44,8 @@ I speak French 🇫🇷 and English 🇺🇸
 - [hollywood](https://github.com/dustinkirkland/hollywood) 
 - [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
 - doge
+
+
 
 ## flex 😎
 ```md
@@ -114,15 +128,5 @@ I speak French 🇫🇷 and English 🇺🇸
 ## Visitor count
 ![Visitor Count](https://profile-counter.glitch.me/%7BSkwalExe%7D/count.svg)
 
-### very funny joke :)
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
-![Years badge](https://badges.pufler.dev/years/SkwalExe)  ![Commits Badge](https://badges.pufler.dev/commits/monthly/SkwalExe) ![Repos Badge](https://badges.pufler.dev/repos/SkwalExe)
-
-I u̶ş̶͕̘̿e á̷̞r̵͉̈c̵͈͇̉h̷̢̰́ ḅ̷̡̡̰͓͇̳͉̬̘͓͈̰̥̝͙̲͂̊t̶͚̦̘̮̮̼̫̫̼̬͇̲̗͇̲̘̩̊w̸̧̨̠͚̭̖̦̗̰̞͇̮̲̹̭͙͖̬͇͙͋̓́̿̀͌̽̌͗͒̾̓̎̉̈́͑͗̎̋̿̕͘̕͜͠
-
-
-Linux > windows 
-
-rm -rf / goes brrrrr 
+I use arch btw
