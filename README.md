@@ -78,17 +78,17 @@ I speak French 🇫🇷 and English 🇺🇸
 ```bash
 ~ ➜ cat projects 
 """
- Typeracer-F1        -> SkwalExe/TypeRacer-F1
- 10FastFingerBot     -> SkwalExe/TenFastFingersBot
- learn-rust          -> SkwalExe/learn-rust
-・dotfiles            -> SkwalExe/dotfiles
-・Malwares            -> SkwalExe/malwares 
-・Mini-matrix         -> SkwalExe/mini-matrix
-・skwal.net           -> www.skwal.net
-・the useless button  -> www.the-useless-button.com
-・social media        -> www.skwal.net/home
-・you cant see me     -> www.you-cant-see.me
-・dumb.engineer       -> www.dumb.engineer
+ Typeracer-F1 🏎        -> SkwalExe/TypeRacer-F1
+ 10FastFingerBot ⌨     -> SkwalExe/TenFastFingersBot
+ learn-rust 🦀          -> SkwalExe/learn-rust
+・dotfiles 💠            -> SkwalExe/dotfiles
+・Malwares 📛            -> SkwalExe/malwares 
+・Mini-matrix 💻         -> SkwalExe/mini-matrix
+・skwal.net 🌐           -> www.skwal.net
+・the useless button ⏹️  -> www.the-useless-button.com
+・social media 😍        -> www.skwal.net/home
+・you cant see me 🐢     -> www.you-cant-see.me
+・dumb.engineer 👷🏻‍♂️       -> www.dumb.engineer
 """
 ```
 ## Social   😍
