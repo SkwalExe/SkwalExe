@@ -8,6 +8,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SkwalExe&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)
 
+![SkwalExe's github activity graph](https://activity-graph.herokuapp.com/graph?username=SkwalExe&theme=dracula)
+
+
 I'm the founder of Skwal.net, I'm 13 y/o 
 I speak French 🇫🇷 and English 🇺🇸 
 
