@@ -16,11 +16,7 @@
 
 ## Skwal
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkwalExe&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SkwalExe&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)
-
-![SkwalExe's github activity graph](https://activity-graph.herokuapp.com/graph?username=SkwalExe&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkwalExe&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SkwalExe&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&hide_border=true) ![SkwalExe's github activity graph](https://activity-graph.herokuapp.com/graph?username=SkwalExe&theme=dracula)
 
 
 I'm the founder of Skwal.net, I'm 13 y/o 
