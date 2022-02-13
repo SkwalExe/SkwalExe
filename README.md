@@ -1,7 +1,8 @@
 
 
-# Hi there 👋 
-![gif](https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif) ![gif](https://68.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif) 
+# Hi there 👋
+![banner](banner.png)
+
 ## Skwal
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkwalExe&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -105,7 +106,7 @@ I speak French 🇫🇷 and English 🇺🇸
 """
 ```
 
-
+![gif](https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif) ![gif](https://68.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif) 
 
 ## Visitor count
 ![Visitor Count](https://profile-counter.glitch.me/%7BSkwalExe%7D/count.svg)
