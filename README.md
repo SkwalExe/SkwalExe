@@ -79,29 +79,29 @@ I speak French 🇫🇷 and English 🇺🇸
 ~ ➜ cat projects 
 """
  Typeracer-F1 🏎        -> SkwalExe/TypeRacer-F1
- 10FastFingerBot ⌨     -> SkwalExe/TenFastFingersBot
+ 10FastFingerBot ⌨      -> SkwalExe/TenFastFingersBot
  learn-rust 🦀          -> SkwalExe/learn-rust
-・dotfiles 💠            -> SkwalExe/dotfiles
-・Malwares 📛            -> SkwalExe/malwares 
-・Mini-matrix 💻         -> SkwalExe/mini-matrix
-・skwal.net 🌐           -> www.skwal.net
-・the useless button ⏹️  -> www.the-useless-button.com
-・social media 😍        -> www.skwal.net/home
-・you cant see me 🐢     -> www.you-cant-see.me
-・dumb.engineer 👷🏻‍♂️       -> www.dumb.engineer
+ dotfiles 💠             -> SkwalExe/dotfiles
+ Malwares 📛            -> SkwalExe/malwares 
+ Mini-matrix 💻         -> SkwalExe/mini-matrix
+ skwal.net 🌐           -> www.skwal.net
+ the useless button ⏹️  -> www.the-useless-button.com
+ social media 😍        -> www.skwal.net/home
+ you cant see me 🐢     -> www.you-cant-see.me
+ dumb.engineer 👷🏻‍♂️       -> www.dumb.engineer
 """
 ```
 ## Social   😍
 ```bash
 ~ ➜ cat social 
 """
-・Youtube   -> youtube.skwal.net
-・Discord   -> discord.skwal.net 
-・Github    -> www.github.com/SkwalExe
-・Website   -> www.skwal.net
-・Skwal     -> www.skwal.net/profile/?id=53
-・Twitter   -> www.twitter.com/SkwalExe
-・Contact   -> support@skwal.net
+ Youtube   -> youtube.skwal.net
+ Discord   -> discord.skwal.net 
+ Github    -> www.github.com/SkwalExe
+ Website   -> www.skwal.net
+ Skwal     -> www.skwal.net/profile/?id=53
+ Twitter   -> www.twitter.com/SkwalExe
+ Contact   -> support@skwal.net
 """
 ```
 
