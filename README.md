@@ -30,7 +30,6 @@ I speak French 🇫🇷 and English 🇺🇸
 - WM : I3-gaps
 
 ## What I do in my terminal when I'm bored
-- sl 
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh)
 - [cli-visualizer](https://github.com/dpayne/cli-visualizer)
 - [cmatrix](https://github.com/abishekvashok/cmatrix)
@@ -40,6 +39,7 @@ I speak French 🇫🇷 and English 🇺🇸
 - [hollywood](https://github.com/dustinkirkland/hollywood) 
 - [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
 - doge
+- sl
 
 
 
@@ -95,7 +95,8 @@ I speak French 🇫🇷 and English 🇺🇸
  Typeracer-F1 🏎        -> SkwalExe/TypeRacer-F1
  10FastFingerBot ⌨      -> SkwalExe/TenFastFingersBot
  learn-rust 🦀          -> SkwalExe/learn-rust
- dotfiles 💠             -> SkwalExe/dotfiles
+ apprendre-rust 🦀      -> SkwalExe/apprendre-rust
+ dotfiles 💠            -> SkwalExe/dotfiles
  Malwares 📛            -> SkwalExe/malwares 
  Mini-matrix 💻         -> SkwalExe/mini-matrix
  skwal.net 🌐           -> www.skwal.net
@@ -125,4 +126,4 @@ I speak French 🇫🇷 and English 🇺🇸
 ![Visitor Count](https://profile-counter.glitch.me/%7BSkwalExe%7D/count.svg)
 
 
-I use arch btw
+I use arch btw :]
