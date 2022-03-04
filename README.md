@@ -4,11 +4,9 @@
 ![banner](banner.png)
 
 # Ukraine 🇺🇦
-<div style="display:flex;align-items:center">
-<div>
-<img src="ukraine.jpg" width="100px" height="300px" />
-</div>
-<div style="margin: 25px">
+
+<img src="ukraine.jpg" width="100%" height="100px" />
+
 What Vladimir Putin is doing in Ukraine 🇺🇦 is inhuman and horrible, hundreds of people are killed every day, the whole population is suffering
 
 
@@ -23,8 +21,9 @@ You can also donate to these links:
 - https://www.medair.org/emergency/ukraine/
 
 **Ukraine will win the war against russia 🇺🇦**
-</div>
-</div>
+
+<img src="ukraine.jpg" width="100%" height="15px" />
+
 
 ## Buy me a coffee
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7AMXI6)
