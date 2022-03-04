@@ -3,11 +3,11 @@
 # Hi there 👋
 ![banner](banner.png)
 
-# Ukraine 🇺🇦
+# Ukraine🇺🇦
 
 <img src="ukraine.jpg" width="100%" height="100px" />
 
-What Vladimir Putin is doing in Ukraine 🇺🇦 is inhuman and horrible, hundreds of people are killed every day, the whole population is suffering
+### **What Vladimir Putin is doing in Ukraine 🇺🇦 is inhuman and horrible, hundreds of people are killed every day, the whole population is suffering**
 
 
 If you have hacking knowledge, you can help ukraine in the cyberwar against russia
@@ -22,7 +22,7 @@ You can also donate to these links:
 
 **Ukraine will win the war against russia 🇺🇦**
 
-<img src="ukraine.jpg" width="100%" height="15px" />
+<img src="https://raw.githubusercontent.com/SkwalExe/SkwalExe/main/ukraine.jpg" width="100%" height="15px" />
 
 
 ## Buy me a coffee
@@ -142,3 +142,5 @@ I speak French 🇫🇷 and English 🇺🇸
 
 
 I use arch btw :]
+
+<a href="https://github.com/SkwalExe#ukraine"><img src="https://raw.githubusercontent.com/SkwalExe/SkwalExe/main/ukraine.jpg" width="100%" height="15px" /></a>
