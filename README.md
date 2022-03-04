@@ -3,17 +3,32 @@
 # Hi there 👋
 ![banner](banner.png)
 
+# Ukraine 🇺🇦
+<div style="display:flex;align-items:center">
+<div>
+<img src="ukraine.jpg" width="100px" height="300px" />
+</div>
+<div style="margin: 25px">
+What Vladimir Putin is doing in Ukraine 🇺🇦 is inhuman and horrible, hundreds of people are killed every day, the whole population is suffering
 
-## Patreons / sponsors
+
+If you have hacking knowledge, you can help ukraine in the cyberwar against russia
+- https://hackenproof.com/ukraine-will-win/save-millions-lives-hackers-against-russia
+
+You can also donate to these links:
+- https://donate.savethechildren.org/en/donate/emergency-ukraine?gclsrc=ds
+- https://www.comebackalive.charity/ukraine-crypto-donation/
+- https://linktohope.co.uk/campaigns/donate-to-the-ukraine/
+- https://crisisrelief.un.org/ukraine-crisis
+- https://www.medair.org/emergency/ukraine/
+
+**Ukraine will win the war against russia 🇺🇦**
+</div>
+</div>
+
+## Buy me a coffee
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7AMXI6)
-<table>
-  <tr>
-    <td align="center">
-    <a href="https://github.com/jcbevc"><img src="https://avatars.githubusercontent.com/u/58481820?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jcbevc</b></sub></a><br />
-    1€ / Month 🙏
-    </td>
-  </tr>
-</table>
+
 
 ## Skwal
 
