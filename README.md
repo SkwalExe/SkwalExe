@@ -1,6 +1,6 @@
 
 
-# Hi there 👋
+# Hi there 👋 ![Visitor Count](https://profile-counter.glitch.me/%7BSkwalExe%7D/count.svg)
 ![banner](banner.png)
 
 # Ukraine🇺🇦
@@ -29,11 +29,21 @@ You can also donate to these links:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7AMXI6)
 
 
-## Skwal
+## Skills🤹
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkwalExe&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SkwalExe&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&hide_border=true) ![SkwalExe's github activity graph](https://activity-graph.herokuapp.com/graph?username=SkwalExe&theme=dracula)
+- 🦀 Rust
+- <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="15px" > Javascript
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="15px" > HTML5
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" width="15px" > CSS3
+- 🐚 Shell
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="15px"> C
 
 
+<img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkwalExe&theme=dracula&layout=compact">
+
+
+
+## Presentation 
 I'm the founder of Skwal.net, I'm 13 y/o 
 I speak French 🇫🇷 and English 🇺🇸 
 
@@ -43,20 +53,6 @@ I speak French 🇫🇷 and English 🇺🇸
 - Shell : zsh
 - Distro : Arch Linux
 - WM : I3-gaps
-
-## What I do in my terminal when I'm bored
-- [pipes.sh](https://github.com/pipeseroni/pipes.sh)
-- [cli-visualizer](https://github.com/dpayne/cli-visualizer)
-- [cmatrix](https://github.com/abishekvashok/cmatrix)
-- [cowsay](https://github.com/farcaller/cawsay)
-- [lolcat](https://github.com/busyloop/lolcat)
-- [cbonsai](https://gitlab.com/jallbrit/cbonsai) 
-- [hollywood](https://github.com/dustinkirkland/hollywood) 
-- [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
-- doge
-- sl
-
-
 
 ## flex 😎
 ```md
@@ -79,48 +75,33 @@ I speak French 🇫🇷 and English 🇺🇸
    `/ossssso+/:-        -:/+osssso+-     Memory: 1681MiB / 64297MiB 
   `+sso+:-`                 `.-/+oso:
  `++:.                           `-/+/                           
- .`                                 `/                           
+ .`                                 `/
 ```
-## Skills 🤹
-```md
-~ ➜ cd skills
-~/skills ➜ tree
-.
-├── languages
-│   ├── css
-│   ├── html
-│   ├── javascript
-│   ├── php
-│   ├── bash
-│   └── sql
-└── learning
-    ├── C
-    ├── C#
-    ├── C++
-    ├── java
-    ├── python
-    └── react
-    
-2 directories, 12 files
-```
+![SkwalExe's github activity graph](https://activity-graph.herokuapp.com/graph?username=SkwalExe&theme=dracula)
+
 ## Projects 🚧
 ```bash
 ~ ➜ cat projects 
-"""
- Typeracer-F1 🏎        -> SkwalExe/TypeRacer-F1
- 10FastFingerBot ⌨      -> SkwalExe/TenFastFingersBot
- learn-rust 🦀          -> SkwalExe/learn-rust
- apprendre-rust 🦀      -> SkwalExe/apprendre-rust
- dotfiles 💠            -> SkwalExe/dotfiles
- Malwares 📛            -> SkwalExe/malwares 
- Mini-matrix 💻         -> SkwalExe/mini-matrix
- skwal.net 🌐           -> www.skwal.net
- the useless button ⏹️  -> www.the-useless-button.com
- social media 😍        -> www.skwal.net/home
- you cant see me 🐢     -> www.you-cant-see.me
- dumb.engineer 👷🏻‍♂️       -> www.dumb.engineer
-"""
 ```
+
+- lsd-print 🧪           -> [SkwalExe/lsd-print](https://github.com/SkwalExe/lsd-print)
+- linux-on-drugs 💊      -> [SkwalExe/linux-on-drugs](https://github.com/SkwalExe/linux-on-drugs)
+- Dtodo 📝               -> [SkwalExe/Dtodo](https://github.com/SkwalExe/Dtodo)
+- Typeracer-F1 🏎        -> [SkwalExe/TypeRacer-F1](https://github.com/SkwalExe/TypeRacer-F1)
+- 10FastFingerBot ⌨      -> [SkwalExe/TenFastFingersBot](https://github.com/SkwalExe/TenFastFingersBot)
+- learn-rust 🦀          -> [SkwalExe/learn-rust](https://github.com/SkwalExe/learn-rust)
+- apprendre-rust 🦀      -> [SkwalExe/apprendre-rust](https://github.com/SkwalExe/apprendre-rust)
+- dotfiles 💠            -> [SkwalExe/dotfiles](https://github.com/SkwalExe/dotfiles)
+- Malwares 📛            -> [SkwalExe/malwares](https://github.com/SkwalExe/malwares)
+- Mini-matrix 💻         -> [SkwalExe/mini-matrix](https://github.com/SkwalExe/mini-matrix)
+- skwal.net 🌐           -> [www.skwal.net](www.skwal.net)
+- the useless button ⏹️  -> [www.the-useless-button.com](https://www.the-useless-button.com)
+- social media 😍        -> [www.skwal.net/home](https://www.skwal.net/home)
+- you cant see me 🐢     -> [www.you-cant-see.me](https://www.you-cant-see.me)
+- dumb.engineer 👷🏻‍♂️       -> [www.dumb.engineer](https://dumb.engineer)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SkwalExe&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)
 ## Social   😍
 ```bash
 ~ ➜ cat social 
@@ -136,10 +117,6 @@ I speak French 🇫🇷 and English 🇺🇸
 ```
 
 ![gif](https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif) ![gif](https://68.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif) 
-
-## Visitor count
-![Visitor Count](https://profile-counter.glitch.me/%7BSkwalExe%7D/count.svg)
-
 
 I use arch btw :]
 
