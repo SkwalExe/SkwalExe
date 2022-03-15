@@ -8,7 +8,8 @@
 <img src="ukraine.jpg" width="100%" height="100px" />
 
 ### **What Vladimir Putin is doing in Ukraine 🇺🇦 is inhuman and horrible, hundreds of people are killed every day, the whole population is suffering**
-
+help ukraine in the cyberwar against russia by DDOSing the russian government website 
+- https://github.com/SkwalExe/help-ukraine
 
 If you have hacking knowledge, you can help ukraine in the cyberwar against russia
 - https://hackenproof.com/ukraine-will-win/save-millions-lives-hackers-against-russia
