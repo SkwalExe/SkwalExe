@@ -1,7 +1,10 @@
 
 
 # Hi there 👋 ![Visitor Count](https://profile-counter.glitch.me/%7BSkwalExe%7D/count.svg)
+
 ![banner](banner.png)
+
+Hello 👋 I'm Léopold Koprivnivnik Ibghy, aka SkwalExe. I'm a 14 y/o French 🇫🇷 programming 💻 and Linux 🐧 lover. I use GitHub everyday since 2022/02/12. I code in rust 🦀, bash 🐚, and web languages 🌐. I also love making online courses.
 
 # Ukraine🇺🇦
 
@@ -45,15 +48,39 @@ You can also donate to these links:
 
 
 ## Presentation 
-I'm the founder of Skwal.net, I'm 13 y/o 
-I speak French 🇫🇷 and English 🇺🇸 
+**Hello 👋 I'm Léopold Koprivnik Ibghy, aka SkwalExe, the founder of skwal.net.**
 
-- IDE : VS Code
-- Terminal Editor : nvim
-- Terminal : gnome-terminal
-- Shell : zsh
-- Distro : Arch Linux
-- WM : I3-gaps
+---
+
+I'm a 13 y/o French 🇫🇷 programming 💻 and Linux 🐧 lover. 💖
+
+I use GitHub everyday since 2022/02/12 🤓. 
+
+I code in rust 🦀, bash 🐚, and web languages 🌐. 
+
+I also love making online courses for free 🆓 
+
+I can speak French 🇫🇷 and English 🇬🇧.
+
+## Projects 🚧
+
+| Project                                                              | Description                                                                                                                   | Repo                                                                        |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 🧪 [lsd-print](https://skwalexe.github.io/lsd-print)                  | 🧪 Just a print tool, but we gave it lsd                                                                                       | [SkwalExe/lsd-print](https://github.com/SkwalExe/lsd-print)                 |
+| 🦀 [apprendre-rust](https://skwalexe.github.io/apprendre-rust)        | Cours gratuits de Rust 🦀 en Francais 🇫🇷                                                                                        | [SkwalExe/apprendre-rust](https://github.com/SkwalExe/apprendre-rust/)      |
+| 👨‍💻 [rmini-matrix](https://skwalexe.github.io/rmini-matrix)            | 🦀 rust implementation of mini-matrix - much faster <br>👨‍💻 Output random 0 and 1 or custom characters with a matrix-like effect | [SkwalExe/rmini-matrix](https://github.com/SkwalExe/rmini-matrix)           |
+| ⌨️ [TenFastFingersBot](https://skwalexe.github.io/TenFastFingersBot/) | ⌨️ Bot for 10fastfingers.com                                                                                                   | [SkwalExe/TenFastFingersBot](https://github.com/SkwalExe/TenFastFingersBot) |
+| 🦀 [learn-rust](https://skwalexe.github.io/learn-rust)                | Free Rust 🦀 course in English 🇬🇧                                                                                               | [SkwalExe/learn-rust](https://github.com/SkwalExe/learn-rust/)              |
+| 🧪 [linux-on-drugs](https://skwalexe.github.io/linux-on-drugs)        | Gives custom drugs to your terminal 💊 <br>Output random colors really fast                                                    | [SkwalExe/linux-on-drugs](https://github.com/SkwalExe/linux-on-drugs)       |
+| 👨‍💻 [mini-matrix](https://skwalexe.github.io/mini-matrix)              | 👨‍💻 Output random 0 and 1 or custom characters with a matrix-like effect                                                        | [SkwalExe/mini-matrix](https://github.com/SkwalExe/mini-matrix)             |
+| 📜 [dtodo](https://skwalexe.github.io/dtodo)                          | 📜 Manage the tasks you want to do every day easily                                                                            | [SkwalExe/dtodo](https://github.com/SkwalExe/dtodo)                         |
+| ✖️ [Les-maths](https://skwalexe.github.io/les-maths)                  | ✖️ Cours de maths gratuits en francais 🇫🇷                                                                                       | [SkwalExe/Les-maths](https://github.com/SkwalExe/les-maths/)                |
+| 🇺🇦 [help-ukraine](https://skwalexe.github.io/help-ukraine)            | Help ukraine 🇺🇦 in the cyberwar against russia <br>by DDOSing russia government website                                        | [SkwalExe/help-ukraine](https://github.com/SkwalExe/help-ukraine/)          |
+| 💠 [Dotfiles](https://skwalexe.github.io/dotfiles)                    | 💠 My personal dotfiles                                                                                                        | [SkwalExe/dotfiles](https://github.com/SkwalExe/dotfiles)                   |
+| 🏎️ [TypeRacer-F1](https://skwalexe.github.io/TypeRacer-F1/)           | 🏎️ Autotyper for typeracer.com                                                                                                 | [SkwalExe/TyperRacer-F1](https://github.com/SkwalExe/TypeRacer-F1)          |
+| 👹 [Malwares](https://skwalexe.github.io/Malwares)                    | 👹 Malwares and jokewares database                                                                                             | [SkwalExe/Malwares](https://github.com/SkwalExe/Malwares)                   |
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SkwalExe&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)
 
 ## flex 😎
 ```md
@@ -80,29 +107,6 @@ I speak French 🇫🇷 and English 🇺🇸
 ```
 ![SkwalExe's github activity graph](https://activity-graph.herokuapp.com/graph?username=SkwalExe&theme=dracula)
 
-## Projects 🚧
-```bash
-~ ➜ cat projects 
-```
-
-- lsd-print 🧪           -> [SkwalExe/lsd-print](https://github.com/SkwalExe/lsd-print)
-- linux-on-drugs 💊      -> [SkwalExe/linux-on-drugs](https://github.com/SkwalExe/linux-on-drugs)
-- Dtodo 📝               -> [SkwalExe/Dtodo](https://github.com/SkwalExe/Dtodo)
-- Typeracer-F1 🏎        -> [SkwalExe/TypeRacer-F1](https://github.com/SkwalExe/TypeRacer-F1)
-- 10FastFingerBot ⌨      -> [SkwalExe/TenFastFingersBot](https://github.com/SkwalExe/TenFastFingersBot)
-- learn-rust 🦀          -> [SkwalExe/learn-rust](https://github.com/SkwalExe/learn-rust)
-- apprendre-rust 🦀      -> [SkwalExe/apprendre-rust](https://github.com/SkwalExe/apprendre-rust)
-- dotfiles 💠            -> [SkwalExe/dotfiles](https://github.com/SkwalExe/dotfiles)
-- Malwares 📛            -> [SkwalExe/malwares](https://github.com/SkwalExe/malwares)
-- Mini-matrix 💻         -> [SkwalExe/mini-matrix](https://github.com/SkwalExe/mini-matrix)
-- skwal.net 🌐           -> [www.skwal.net](www.skwal.net)
-- the useless button ⏹️  -> [www.the-useless-button.com](https://www.the-useless-button.com)
-- social media 😍        -> [www.skwal.net/home](https://www.skwal.net/home)
-- you cant see me 🐢     -> [www.you-cant-see.me](https://www.you-cant-see.me)
-- dumb.engineer 👷🏻‍♂️       -> [www.dumb.engineer](https://dumb.engineer)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SkwalExe&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)
 ## Social   😍
 ```bash
 ~ ➜ cat social 
