@@ -46,11 +46,12 @@ You can also donate to these links:
 
 ## Presentation 
 
-<img align="right" src="https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif">
 
 **Hello 👋 I'm Léopold Koprivnik Ibghy, aka SkwalExe, the founder of skwal.net.**
 
 ---
+
+<img width="300px" align="right" src="https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif">
 
 I'm a 13 y/o French 🇫🇷 programming 💻 and Linux 🐧 lover. 💖
 
@@ -81,7 +82,10 @@ I can speak French 🇫🇷 and English 🇬🇧.
 | 🏎️ [TypeRacer-F1](https://skwalexe.github.io/TypeRacer-F1/)           | 🏎️ Autotyper for typeracer.com                                                                                                 | [SkwalExe/TyperRacer-F1](https://github.com/SkwalExe/TypeRacer-F1)          |
 | 👹 [Malwares](https://skwalexe.github.io/Malwares)                    | 👹 Malwares and jokewares database                                                                                             | [SkwalExe/Malwares](https://github.com/SkwalExe/Malwares)                   |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SkwalExe&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)
+
+<img align="right" width="200px" src="https://i.pinimg.com/originals/fe/3d/c7/fe3dc7d75d38fb83b9d3c313c8af56a4.gif">
+
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=SkwalExe&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
 
 ## flex 😎
 ```md
@@ -111,7 +115,7 @@ I can speak French 🇫🇷 and English 🇬🇧.
 
 ## Social   😍
 
-<img align="right" src="https://68.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif">
+<img height="220px" align="right" src="https://68.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif">
 
 ```bash
 ~ ➜ cat social 
