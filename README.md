@@ -1,5 +1,3 @@
-
-
 # Hi there 👋 ![Visitor Count](https://profile-counter.glitch.me/%7BSkwalExe%7D/count.svg)
 
 ![banner](banner.png)
@@ -12,12 +10,15 @@ Hello 👋 I'm Léopold Koprivnivnik Ibghy, aka SkwalExe. I'm a 14 y/o French �
 
 ### **What Vladimir Putin is doing in Ukraine 🇺🇦 is inhuman and horrible, hundreds of people are killed every day, the whole population is suffering**
 help ukraine in the cyberwar against russia by DDOSing the russian government website 
+
 - https://github.com/SkwalExe/help-ukraine
 
 If you have hacking knowledge, you can help ukraine in the cyberwar against russia
+
 - https://hackenproof.com/ukraine-will-win/save-millions-lives-hackers-against-russia
 
 You can also donate to these links:
+
 - https://donate.savethechildren.org/en/donate/emergency-ukraine?gclsrc=ds
 - https://www.comebackalive.charity/ukraine-crypto-donation/
 - https://linktohope.co.uk/campaigns/donate-to-the-ukraine/
@@ -28,12 +29,13 @@ You can also donate to these links:
 
 <img src="https://raw.githubusercontent.com/SkwalExe/SkwalExe/main/ukraine.jpg" width="100%" height="15px" />
 
-
 ## Buy me a coffee
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7AMXI6)
 
-
 ## Skills🤹
+
+<img height="150px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkwalExe&theme=dracula&layout=compact">
 
 - 🦀 Rust
 - <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="15px" > Javascript
@@ -42,12 +44,10 @@ You can also donate to these links:
 - 🐚 Shell
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="15px"> C
 
-
-<img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkwalExe&theme=dracula&layout=compact">
-
-
-
 ## Presentation 
+
+<img align="right" src="https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif">
+
 **Hello 👋 I'm Léopold Koprivnik Ibghy, aka SkwalExe, the founder of skwal.net.**
 
 ---
@@ -106,9 +106,13 @@ I can speak French 🇫🇷 and English 🇬🇧.
  `++:.                           `-/+/                           
  .`                                 `/
 ```
+
 ![SkwalExe's github activity graph](https://activity-graph.herokuapp.com/graph?username=SkwalExe&theme=dracula)
 
 ## Social   😍
+
+<img align="right" src="https://68.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif">
+
 ```bash
 ~ ➜ cat social 
 """
@@ -121,8 +125,6 @@ I can speak French 🇫🇷 and English 🇬🇧.
  Contact   -> support@skwal.net
 """
 ```
-
-![gif](https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif) ![gif](https://68.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif) 
 
 I use arch btw :]
 
