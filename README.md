@@ -85,6 +85,8 @@ I can speak French 🇫🇷 and English 🇬🇧.
 
 <img align="right" width="200px" src="https://i.pinimg.com/originals/fe/3d/c7/fe3dc7d75d38fb83b9d3c313c8af56a4.gif">
 
+40 day streak goes *wooooooo*
+
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=SkwalExe&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
 
 ## flex 😎
