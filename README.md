@@ -4,6 +4,8 @@
 
 Hello 👋 I'm Léopold Koprivnivnik Ibghy, aka SkwalExe. I'm a 14 y/o French 🇫🇷 programming 💻 and Linux 🐧 lover. I use GitHub everyday since 2022/02/12. I code in rust 🦀, bash 🐚, and web languages 🌐. I also love making online courses.
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SkwalExe&theme=codeSTACKr">
+
 # Ukraine🇺🇦
 
 <img src="ukraine.jpg" width="100%" height="100px" />
