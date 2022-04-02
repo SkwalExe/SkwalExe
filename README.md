@@ -69,6 +69,7 @@ I can speak French 🇫🇷 and English 🇬🇧.
 
 | Project                                                              | Description                                                                                                                   | Repo                                                                        |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 🐄 [cow-encryptor](https://skwalexe.github.io/cow-encryptor)          | Encrypt your files in cow language 🐄                                                                                          | [SkwalExe/cow-encryptor](https://github.com/SkwalExe/cow-encryptor)         |
 | ⌨️ [Typrint](https://skwalexe.github.io/typrint)                      | ⌨️ Print text with a typing effect - Made with rust 🦀                                                                          | [SkwalExe/typrint](https://github.com/SkwalExe/typrint)                     |
 | 🐮 [cow-translator](https://skwalexe.github.io/cow-translator)        | Official moo translator to communicate with 🐮 cow                                                                             | [SkwalExe/cow-translator](https://github.com/SkwalExe/cow-translator)       |
 | 🧪 [lsd-print](https://skwalexe.github.io/lsd-print)                  | 🧪 Just a print tool, but we gave it lsd                                                                                       | [SkwalExe/lsd-print](https://github.com/SkwalExe/lsd-print)                 |
@@ -88,7 +89,7 @@ I can speak French 🇫🇷 and English 🇬🇧.
 
 <img align="right" width="200px" src="https://i.pinimg.com/originals/fe/3d/c7/fe3dc7d75d38fb83b9d3c313c8af56a4.gif">
 
-40 day streak goes *wooooooo*
+50 day streak goes *wooooooo*
 
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=SkwalExe&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
 
