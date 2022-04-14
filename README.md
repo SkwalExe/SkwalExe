@@ -31,6 +31,15 @@ You can also donate to these links:
 
 <img src="https://raw.githubusercontent.com/SkwalExe/SkwalExe/main/ukraine.jpg" width="100%" height="15px" />
 
+# 🙏 Want to do a good action today?
+
+- [**🇺🇦 Help the children in ukraine**](https://support.savethechildren.org/site/Donation2?idb=466523003&df_id=5746)
+- [**🇾🇪 Protect children in Yemen**](https://www.unicef.org.uk/donate/yemen/)
+- [**🇸🇾 Help children in Syria**](https://www.unicef.org.uk/donate/syria/)
+- [**🇮🇳 Help indian children to get an education**](https://www.globalgiving.org/projects/bhumi-10000/)
+- [**🇵🇸 Education opportunities for Palestinian Refuge**](https://www.globalgiving.org/projects/education-opportunities-for-200-palestinian-refuge/)
+- [**🇦🇫 Afghanistan Emergency Fund**](https://www.globalgiving.org/projects/afghanistan-emergency-fund/)
+
 ## Buy me a coffee
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7AMXI6)
@@ -46,8 +55,6 @@ You can also donate to these links:
 - 🐚 Shell
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="15px"> C
 
-
-<img src="https://github.com/SkwalExe/SkwalExe/blob/main/generated/languages.svg"><img src="https://github.com/SkwalExe/SkwalExe/blob/main/generated/overview.svg">
 
 ## Presentation 
 
