@@ -76,6 +76,7 @@ I also love making online courses for free 🆓
 I can speak French 🇫🇷 and English 🇬🇧.
 
 ## Projects 🚧
+
 | Project | Description | Repo |
 | --- | --- | --- |
 | [apprendre-rust](https://skwalexe.github.io/apprendre-rust/) | Cours gratuits de Rust 🦀 en Francais 🇫🇷 | [SkwalExe/apprendre-rust](https://github.com/SkwalExe/apprendre-rust) |
@@ -100,11 +101,11 @@ I can speak French 🇫🇷 and English 🇬🇧.
 | [skwal.net](https://new.skwal.net) | 🌐 Source code of skwal.net | [SkwalExe/skwal.net](https://github.com/SkwalExe/skwal.net) |
 | [SkwalExe](https://skwal.net) | Hello 👋 I'm Léopold Koprivnivnik Ibghy, aka SkwalExe. I'm a 14 y/o French 🇫🇷 programming 💻 and Linux 🐧 lover. I use GitHub everyday since 2022/02/12. I code in rust 🦀, bash 🐚, and web languages 🌐. I also love making online courses. | [SkwalExe/SkwalExe](https://github.com/SkwalExe/SkwalExe) |
 | [skwalexe.github.io](https://skwalexe.github.io/) | 💎 Personal website for my github profile | [SkwalExe/skwalexe.github.io](https://github.com/SkwalExe/skwalexe.github.io) |
+| [skwash.js](https://skwalexe.github.io/skwash.js/example.html) | Javascript-driven 🐧 Linux-like shell 🐚 emulator😍 | [SkwalExe/skwash.js](https://github.com/SkwalExe/skwash.js) |
 | [TenFastFingersBot](https://skwalexe.github.io/TenFastFingersBot/) | ⌨️ Bot for 10fastfingers.com  | [SkwalExe/TenFastFingersBot](https://github.com/SkwalExe/TenFastFingersBot) |
 | [TypeRacer-F1](https://skwalexe.github.io/TypeRacer-F1/) | 🏎️ Autotyper for typeracer.com | [SkwalExe/TypeRacer-F1](https://github.com/SkwalExe/TypeRacer-F1) |
 | [typrint](https://skwalexe.github.io/typrint) | ⌨️ Print text with a typing effect - Made with rust 🦀 | [SkwalExe/typrint](https://github.com/SkwalExe/typrint) |
 | [WindowsMessageBox.js](https://skwalexe.github.io/WindowsMessageBox.js) | Create Windows-like 🪟 message boxes 💬 for your website | [SkwalExe/WindowsMessageBox.js](https://github.com/SkwalExe/WindowsMessageBox.js) |
-
 
 <img align="right" width="200px" src="https://i.pinimg.com/originals/fe/3d/c7/fe3dc7d75d38fb83b9d3c313c8af56a4.gif">
 
