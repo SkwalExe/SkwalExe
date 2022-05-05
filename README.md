@@ -65,7 +65,7 @@ You can also donate to these links:
 
 <img width="300px" align="right" src="https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif">
 
-I'm a 13 y/o French 🇫🇷 programming 💻 and Linux 🐧 lover. 💖
+I'm a 14 y/o French 🇫🇷 programming 💻 and Linux 🐧 lover. 💖
 
 I use GitHub everyday since 2022/02/12 🤓. 
 
@@ -101,7 +101,7 @@ I can speak French 🇫🇷 and English 🇬🇧.
 | [skwal.net](https://new.skwal.net) | 🌐 Source code of skwal.net | [SkwalExe/skwal.net](https://github.com/SkwalExe/skwal.net) |
 | [SkwalExe](https://skwal.net) | Hello 👋 I'm Léopold Koprivnivnik Ibghy, aka SkwalExe. I'm a 14 y/o French 🇫🇷 programming 💻 and Linux 🐧 lover. I use GitHub everyday since 2022/02/12. I code in rust 🦀, bash 🐚, and web languages 🌐. I also love making online courses. | [SkwalExe/SkwalExe](https://github.com/SkwalExe/SkwalExe) |
 | [skwalexe.github.io](https://skwalexe.github.io/) | 💎 Personal website for my github profile | [SkwalExe/skwalexe.github.io](https://github.com/SkwalExe/skwalexe.github.io) |
-| [skwash.js](https://skwalexe.github.io/skwash.js/example.html) | Javascript-driven 🐧 Linux-like shell 🐚 emulator😍 | [SkwalExe/skwash.js](https://github.com/SkwalExe/skwash.js) |
+| [skwash.js](https://skwalexe.github.io/skwash.js/example.html) | Javascript-driven 🐧 Linux-like shell 🐚 emulator 😍 | [SkwalExe/skwash.js](https://github.com/SkwalExe/skwash.js) |
 | [TenFastFingersBot](https://skwalexe.github.io/TenFastFingersBot/) | ⌨️ Bot for 10fastfingers.com  | [SkwalExe/TenFastFingersBot](https://github.com/SkwalExe/TenFastFingersBot) |
 | [TypeRacer-F1](https://skwalexe.github.io/TypeRacer-F1/) | 🏎️ Autotyper for typeracer.com | [SkwalExe/TypeRacer-F1](https://github.com/SkwalExe/TypeRacer-F1) |
 | [typrint](https://skwalexe.github.io/typrint) | ⌨️ Print text with a typing effect - Made with rust 🦀 | [SkwalExe/typrint](https://github.com/SkwalExe/typrint) |
