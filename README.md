@@ -4,31 +4,6 @@
 
 Hello 👋 I'm Léopold Koprivnivnik Ibghy, aka SkwalExe. I'm a 14 y/o French 🇫🇷 programming 💻 and Linux 🐧 lover. I use GitHub everyday since 2022/02/12. I code in rust 🦀, bash 🐚, and web languages 🌐. I also love making online courses.
 
-# Ukraine🇺🇦
-
-<img src="ukraine.jpg" width="100%" height="100px" />
-
-### **What Vladimir Putin is doing in Ukraine 🇺🇦 is inhuman and horrible, hundreds of people are killed every day, the whole population is suffering**
-help ukraine in the cyberwar against russia by DDOSing the russian government website 
-
-- https://github.com/SkwalExe/help-ukraine
-
-If you have hacking knowledge, you can help ukraine in the cyberwar against russia
-
-- https://hackenproof.com/ukraine-will-win/save-millions-lives-hackers-against-russia
-
-You can also donate to these links:
-
-- https://donate.savethechildren.org/en/donate/emergency-ukraine?gclsrc=ds
-- https://www.comebackalive.charity/ukraine-crypto-donation/
-- https://linktohope.co.uk/campaigns/donate-to-the-ukraine/
-- https://crisisrelief.un.org/ukraine-crisis
-- https://www.medair.org/emergency/ukraine/
-
-**Ukraine will win the war against russia 🇺🇦**
-
-<img src="https://raw.githubusercontent.com/SkwalExe/SkwalExe/main/ukraine.jpg" width="100%" height="15px" />
-
 # 🙏 Want to do a good action today?
 
 - [**🇺🇦 Help the children in ukraine**](https://support.savethechildren.org/site/Donation2?idb=466523003&df_id=5746)
@@ -137,14 +112,18 @@ I use arch btw :]
 | Project | Description | Repo |
 | --- | --- | --- |
 | [apprendre-rust](https://skwalexe.github.io/apprendre-rust/) | Cours gratuits de Rust 🦀 en Francais 🇫🇷 | [SkwalExe/apprendre-rust](https://github.com/SkwalExe/apprendre-rust) |
+| [ascii-video-player](https://skwalexe.github.io/ascii-video-player) | Play videos 📺 files in real time directly in your terminal  | [SkwalExe/ascii-video-player](https://github.com/SkwalExe/ascii-video-player) |
 | [cmdline-parser.js](https://skwalexe.github.io/cmdline-parser.js) | cmdline-parser.js is a tool allowing you to retrieve all the information and components of a command line 🐚 | [SkwalExe/cmdline-parser.js](https://github.com/SkwalExe/cmdline-parser.js) |
 | [cow-encryptor](https://skwalexe.github.io/cow-encryptor) | Encrypt your files in cow language 🐄 | [SkwalExe/cow-encryptor](https://github.com/SkwalExe/cow-encryptor) |
 | [cow-translator](https://skwalexe.github.io/cow-translator) | Official moo translator to communicate with cows 🐮 | [SkwalExe/cow-translator](https://github.com/SkwalExe/cow-translator) |
 | [cowTranslator.js](https://new.skwal.net/cowTranslator) | JavaScript library to translate cow language 🐄 to text  | [SkwalExe/cowTranslator.js](https://github.com/SkwalExe/cowTranslator.js) |
+| [cyprint](https://skwalexe.github.io/cyprint) | Print text with typing effect ⌨️ - remake of typrint in C  | [SkwalExe/cyprint](https://github.com/SkwalExe/cyprint) |
 | [dotfiles](https://skwalexe.github.io/dotfiles/) | 💠 My personal dotfiles  | [SkwalExe/dotfiles](https://github.com/SkwalExe/dotfiles) |
 | [dtodo](https://skwalexe.github.io/dtodo/) | 📜 Manage the tasks you want to do every day easily | [SkwalExe/dtodo](https://github.com/SkwalExe/dtodo) |
 | [FakeFileSystem.js](https://skwalexe.github.io/FakeFileSystem.js) | library to simulate a simple file system in javascript 💾 | [SkwalExe/FakeFileSystem.js](https://github.com/SkwalExe/FakeFileSystem.js) |
+| [game-of-life-c](https://skwalexe.github.io/game-of-life-c) | 🌟 A terminal application to simulate the Conway's game of life cellular automaton 🌟 | [SkwalExe/game-of-life-c](https://github.com/SkwalExe/game-of-life-c) |
 | [help-ukraine](https://skwalexe.github.io/help-ukraine/) | 🇺🇦 Help ukraine in the cyberwar against russia by DDOSing russia government website | [SkwalExe/help-ukraine](https://github.com/SkwalExe/help-ukraine) |
+| [langton-ant-c]() | A Langton's Ant cellular automaton simulator 🐜 | [SkwalExe/langton-ant-c](https://github.com/SkwalExe/langton-ant-c) |
 | [learn-rust](https://skwalexe.github.io/learn-rust/) | Free Rust 🦀 course in English 🇬🇧 | [SkwalExe/learn-rust](https://github.com/SkwalExe/learn-rust) |
 | [les-maths](https://skwalexe.github.io/les-maths) | 📐 Cours de maths gratuits en francais 🇫🇷 | [SkwalExe/les-maths](https://github.com/SkwalExe/les-maths) |
 | [linux-on-drugs](https://skwalexe.github.io/linux-on-drugs/) | Gives custom drugs to your terminal 💊 - Output random colors really fast | [SkwalExe/linux-on-drugs](https://github.com/SkwalExe/linux-on-drugs) |
@@ -161,10 +140,4 @@ I use arch btw :]
 | [SkwalExe](https://new.skwal.net) | My profile readme 📃✨ | [SkwalExe/SkwalExe](https://github.com/SkwalExe/SkwalExe) |
 | [skwalexe.github.io](https://skwalexe.github.io/) | 💎 Personal website for my github profile | [SkwalExe/skwalexe.github.io](https://github.com/SkwalExe/skwalexe.github.io) |
 | [skwash.js](https://skwalexe.github.io/skwash.js/example.html) | Javascript-driven 🐧 Linux-like shell 🐚 emulator 😍 | [SkwalExe/skwash.js](https://github.com/SkwalExe/skwash.js) |
-| [TenFastFingersBot](https://skwalexe.github.io/TenFastFingersBot/) | ⌨️ Bot for 10fastfingers.com  | [SkwalExe/TenFastFingersBot](https://github.com/SkwalExe/TenFastFingersBot) |
-| [Toasteur.js](https://skwalexe.github.io/Toasteur.js/example.html) | Create beautiful and customizable toast notifications 💬 for your website ✨ - Similar to toastr.js but don't need jQuery ❌ | [SkwalExe/Toasteur.js](https://github.com/SkwalExe/Toasteur.js) |
-| [Toultip.js](https://skwalexe.github.io/Toultip.js/example.html) | Create beautiful and customizable tooltips 🗨️ for your website 🎇 | [SkwalExe/Toultip.js](https://github.com/SkwalExe/Toultip.js) |
-| [TypeRacer-F1](https://skwalexe.github.io/TypeRacer-F1/) | 🏎️ Autotyper for typeracer.com | [SkwalExe/TypeRacer-F1](https://github.com/SkwalExe/TypeRacer-F1) |
-| [typrint](https://skwalexe.github.io/typrint) | ⌨️ Print text with a typing effect - Made with rust 🦀 | [SkwalExe/typrint](https://github.com/SkwalExe/typrint) |
-
-<a href="https://github.com/SkwalExe#ukraine"><img src="https://raw.githubusercontent.com/SkwalExe/SkwalExe/main/ukraine.jpg" width="100%" height="15px" /></a>
+| [snake-python](https://SkwalExe.github.io/snake-python) | A simple snake game made with python 🐍 | [SkwalExe/snake-python](https://github.com/SkwalExe/snake-python) |
