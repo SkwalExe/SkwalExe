@@ -1,39 +1,22 @@
-# For anyone wondering, I am not dead, just taking CS50w and I'm busy with school. I'll be back soon.
-
-# Hi there 👋 ![Visitor Count](https://profile-counter.glitch.me/%7BSkwalExe%7D/count.svg)
+# Hi there 👋 ![Visitor Count](https://profile-counter.glitch.me/SkwalExe/count.svg)
 
 ![banner](banner.png)
 
-Hello 👋 I'm Léopold Koprivnik, aka SkwalExe. I'm a 15 y/o French 🇫🇷 programming 💻 and Linux 🐧 lover. I use GitHub everyday since 2022/02/12. I code in rust 🦀, bash 🐚, and web languages 🌐. I also love making online courses.
+Hello 👋 I'm Léopold Koprivnik, aka SkwalExe. I'm a 15 y/o French 🇫🇷 programming and Linux 🐧 and open source lover. I code in C, rust 🦀, bash, python, and web languages.
 
 ### Monero 
 
 
-472rHpcwBk64JE9RtNVf7zF4SfoHGcwm9CndYBaXxyYWBK9dHDPXo1qUbsiPXiU96ifveAwjVwZXCHQadVQYT1u61cozJNr
+`472rHpcwBk64JE9RtNVf7zF4SfoHGcwm9CndYBaXxyYWBK9dHDPXo1qUbsiPXiU96ifveAwjVwZXCHQadVQYT1u61cozJNr`
 
-# 🙏 Want to do a good action today?
+<img height="220px" align="right" src="https://68.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif">
 
-- [**🇺🇦 Help the children in ukraine**](https://support.savethechildren.org/site/Donation2?idb=466523003&df_id=5746)
-- [**🇾🇪 Protect children in Yemen**](https://www.unicef.org.uk/donate/yemen/)
-- [**🇸🇾 Help children in Syria**](https://www.unicef.org.uk/donate/syria/)
-- [**🇮🇳 Help indian children to get an education**](https://www.globalgiving.org/projects/bhumi-10000/)
-- [**🇵🇸 Education opportunities for Palestinian Refuge**](https://www.globalgiving.org/projects/education-opportunities-for-200-palestinian-refuge/)
-- [**🇦🇫 Afghanistan Emergency Fund**](https://www.globalgiving.org/projects/afghanistan-emergency-fund/)
 
-## Buy me a coffee
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7AMXI6)
 
-## Skills🤹
 
-<img height="150px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkwalExe&theme=dracula&layout=compact">
-
-- 🦀 Rust
-- <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="15px" > Javascript
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="15px" > HTML5
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" width="15px" > CSS3
-- 🐚 Shell
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="15px"> C
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkwalExe&theme=dracula&layout=compact">
 
 
 ## Presentation 
@@ -43,28 +26,15 @@ Hello 👋 I'm Léopold Koprivnik, aka SkwalExe. I'm a 15 y/o French 🇫🇷 pr
 
 ---
 
+
+
 <img width="300px" align="right" src="https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif">
 
-I'm a 14 y/o French 🇫🇷 programming 💻 and Linux 🐧 lover. 💖
-
-I use GitHub everyday since 2022/02/12 🤓. 
-
-I code in rust 🦀, bash 🐚, and web languages 🌐. 
-
-I also love making online courses for free 🆓 
-
-I can speak French 🇫🇷 and English 🇬🇧.
-
-
-
-<img align="right" width="200px" src="https://i.pinimg.com/originals/fe/3d/c7/fe3dc7d75d38fb83b9d3c313c8af56a4.gif">
 
 100 day streak goes *wooooooo*
 
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=SkwalExe&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
 
-## flex 😎
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SkwalExe&theme=codeSTACKr">
 
 ```md
 ~ ➜ neofetch
@@ -89,62 +59,54 @@ I can speak French 🇫🇷 and English 🇬🇧.
  .`                                 `/
 ```
 
-![SkwalExe's github activity graph](https://activity-graph.herokuapp.com/graph?username=SkwalExe&theme=dracula)
 
-## Social   😍
 
-<img height="220px" align="right" src="https://68.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif">
 
-```bash
-~ ➜ cat social 
-"""
- Youtube   -> youtube.skwal.net
- Discord   -> discord.skwal.net 
- Github    -> www.github.com/SkwalExe
- Website   -> www.skwal.net
- Skwal     -> www.skwal.net/profile/?id=53
- Twitter   -> www.twitter.com/SkwalExe
- Contact   -> support@skwal.net
-"""
-```
-
-![trophy](https://github-profile-trophy.vercel.app/?username=SkwalExe&theme=dracula)
-
-I use arch btw :]
 
 ## Projects 🚧
 
 ![](projects.png)
 
-| Project                                                                | Description                                                                                                                 | Repo                                                                          |
-| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [apprendre-rust](https://skwalexe.github.io/apprendre-rust/)           | Cours gratuits de Rust 🦀 en Francais 🇫🇷                                                                                      | [SkwalExe/apprendre-rust](https://github.com/SkwalExe/apprendre-rust)         |
-| [ascii-video-player](https://skwalexe.github.io/ascii-video-player)    | Play videos 📺 files in real time directly in your terminal                                                                  | [SkwalExe/ascii-video-player](https://github.com/SkwalExe/ascii-video-player) |
-| [cmdline-parser.js](https://skwalexe.github.io/cmdline-parser.js)      | cmdline-parser.js is a tool allowing you to retrieve all the information and components of a command line 🐚                 | [SkwalExe/cmdline-parser.js](https://github.com/SkwalExe/cmdline-parser.js)   |
-| [cow-encryptor](https://skwalexe.github.io/cow-encryptor)              | Encrypt your files in cow language 🐄                                                                                        | [SkwalExe/cow-encryptor](https://github.com/SkwalExe/cow-encryptor)           |
-| [cow-translator](https://skwalexe.github.io/cow-translator)            | Official moo translator to communicate with cows 🐮                                                                          | [SkwalExe/cow-translator](https://github.com/SkwalExe/cow-translator)         |
-| [cowTranslator.js](https://new.skwal.net/cowTranslator)                | JavaScript library to translate cow language 🐄 to text                                                                      | [SkwalExe/cowTranslator.js](https://github.com/SkwalExe/cowTranslator.js)     |
-| [cyprint](https://skwalexe.github.io/cyprint)                          | Print text with typing effect ⌨️ - remake of typrint in C                                                                    | [SkwalExe/cyprint](https://github.com/SkwalExe/cyprint)                       |
-| [dotfiles](https://skwalexe.github.io/dotfiles/)                       | 💠 My personal dotfiles                                                                                                      | [SkwalExe/dotfiles](https://github.com/SkwalExe/dotfiles)                     |
-| [dtodo](https://skwalexe.github.io/dtodo/)                             | 📜 Manage the tasks you want to do every day easily                                                                          | [SkwalExe/dtodo](https://github.com/SkwalExe/dtodo)                           |
-| [FakeFileSystem.js](https://skwalexe.github.io/FakeFileSystem.js)      | library to simulate a simple file system in javascript 💾                                                                    | [SkwalExe/FakeFileSystem.js](https://github.com/SkwalExe/FakeFileSystem.js)   |
-| [game-of-life-c](https://skwalexe.github.io/game-of-life-c)            | 🌟 A terminal application to simulate the Conway's game of life cellular automaton 🌟                                         | [SkwalExe/game-of-life-c](https://github.com/SkwalExe/game-of-life-c)         |
-| [help-ukraine](https://skwalexe.github.io/help-ukraine/)               | 🇺🇦 Help ukraine in the cyberwar against russia by DDOSing russia government website                                          | [SkwalExe/help-ukraine](https://github.com/SkwalExe/help-ukraine)             |
-| [langton-ant-c]()                                                      | A Langton's Ant cellular automaton simulator 🐜                                                                              | [SkwalExe/langton-ant-c](https://github.com/SkwalExe/langton-ant-c)           |
-| [learn-rust](https://skwalexe.github.io/learn-rust/)                   | Free Rust 🦀 course in English 🇬🇧                                                                                             | [SkwalExe/learn-rust](https://github.com/SkwalExe/learn-rust)                 |
-| [les-maths](https://skwalexe.github.io/les-maths)                      | 📐 Cours de maths gratuits en francais 🇫🇷                                                                                     | [SkwalExe/les-maths](https://github.com/SkwalExe/les-maths)                   |
-| [linux-on-drugs](https://skwalexe.github.io/linux-on-drugs/)           | Gives custom drugs to your terminal 💊 - Output random colors really fast                                                    | [SkwalExe/linux-on-drugs](https://github.com/SkwalExe/linux-on-drugs)         |
-| [lsd-print](https://skwalexe.github.io/lsd-print/ )                    | 🧪 Just a print tool, but we gave it lsd                                                                                     | [SkwalExe/lsd-print](https://github.com/SkwalExe/lsd-print)                   |
-| [Malwares](https://skwalexe.github.io/Malwares/)                       | 👹 Malwares and jokewares database                                                                                           | [SkwalExe/Malwares](https://github.com/SkwalExe/Malwares)                     |
-| [math-to-image](https://skwalexe.github.io/math-to-image)              | 📐 A vscode extension to convert LaTeX code into remote image links                                                          | [SkwalExe/math-to-image](https://github.com/SkwalExe/math-to-image)           |
-| [memz.js](https://skwal.net/memz)                                      | 👾 Library to simulate memz-like virus in a browser                                                                          | [SkwalExe/memz.js](https://github.com/SkwalExe/memz.js)                       |
-| [MessageBox.js](https://skwalexe.github.io/MessageBox.js/example.html) | 💠 Skwal.net message box javascript library - Create beautiful and customizable message boxes 💬 for your website ✨           | [SkwalExe/MessageBox.js](https://github.com/SkwalExe/MessageBox.js)           |
-| [mini-matrix](https://skwalexe.github.io/mini-matrix/)                 | 👨‍💻 Output random 0 and 1 or custom characters with a matrix-like effect                                                      | [SkwalExe/mini-matrix](https://github.com/SkwalExe/mini-matrix)               |
-| [rmini-matrix](https://skwalexe.github.io/rmini-matrix/)               | 🦀 rust implementation of mini-matrix - much faster - 👨‍💻 Output random 0 and 1 or custom characters with a matrix-like effect | [SkwalExe/rmini-matrix](https://github.com/SkwalExe/rmini-matrix)             |
-| [rust-drawing](https://skwalexe.github.io/rust-drawing)                | ✏️🦀 Rust drawing allows you to draw incredible and admirable art in your terminal                                            | [SkwalExe/rust-drawing](https://github.com/SkwalExe/rust-drawing)             |
-| [rust-logging](https://skwalexe.github.io/rust-logging)                | 💬 A couple of functions to make logging in Rust easier.                                                                     | [SkwalExe/rust-logging](https://github.com/SkwalExe/rust-logging)             |
-| [skwal.net](https://skwal.net)                                         | 🌐 Source code of skwal.net                                                                                                  | [SkwalExe/skwal.net](https://github.com/SkwalExe/skwal.net)                   |
-| [SkwalExe](https://new.skwal.net)                                      | My profile readme 📃✨                                                                                                        | [SkwalExe/SkwalExe](https://github.com/SkwalExe/SkwalExe)                     |
-| [skwalexe.github.io](https://skwalexe.github.io/)                      | 💎 Personal website for my github profile                                                                                    | [SkwalExe/skwalexe.github.io](https://github.com/SkwalExe/skwalexe.github.io) |
-| [skwash.js](https://skwalexe.github.io/skwash.js/example.html)         | Javascript-driven 🐧 Linux-like shell 🐚 emulator 😍                                                                           | [SkwalExe/skwash.js](https://github.com/SkwalExe/skwash.js)                   |
-| [snake-python](https://SkwalExe.github.io/snake-python)                | A simple snake game made with python 🐍                                                                                      | [SkwalExe/snake-python](https://github.com/SkwalExe/snake-python)             |
+| Project | Description | Repo |
+| --- | --- | --- |
+| [skwal-net-v2](https://skwal.net) | 🌐 Remake of skwal.net with more modern technologies, goodbye PHP, hello Python and Django | [SkwalExe/skwal-net-v2](https://github.com/SkwalExe/skwal-net-v2) |
+| [bouncing-balls]() | 🏀 Highly customizable application that simulates one or more bouncing balls in your terminal. | [SkwalExe/bouncing-balls](https://github.com/SkwalExe/bouncing-balls) |
+| [pong-python](https://skwalexe.github.io/pong-python/) | 🏓 Simple terminal pong game made with python | [SkwalExe/pong-python](https://github.com/SkwalExe/pong-python) |
+| [flap-python](https://skwalexe.github.io/flap-python/) | 🐤 A simple terminal flappy bird game made with python | [SkwalExe/flap-python](https://github.com/SkwalExe/flap-python) |
+| [MessageBox.js](https://skwalexe.github.io/MessageBox.js/example.html) | 💠 Skwal.net message box javascript library - Create beautiful and customizable message boxes 💬 for your website ✨ | [SkwalExe/MessageBox.js](https://github.com/SkwalExe/MessageBox.js) |
+| [sorting-algorithms](https://skwalexe.github.io/sorting-algorithms) | 📶 Sorting algorithms visualizer - in your terminal! | [SkwalExe/sorting-algorithms](https://github.com/SkwalExe/sorting-algorithms) |
+| [langton-ant-c]() | A terminal Langton's Ant cellular automaton simulator 🐜 | [SkwalExe/langton-ant-c](https://github.com/SkwalExe/langton-ant-c) |
+| [les-maths](https://skwalexe.github.io/les-maths) | 📐 Cours de maths gratuits en francais 🇫🇷 | [SkwalExe/les-maths](https://github.com/SkwalExe/les-maths) |
+| [snake-python](https://SkwalExe.github.io/snake-python) | A simple snake game made with python 🐍 | [SkwalExe/snake-python](https://github.com/SkwalExe/snake-python) |
+| [SkwalExe](https://new.skwal.net) | My profile readme 📃✨ | [SkwalExe/SkwalExe](https://github.com/SkwalExe/SkwalExe) |
+| [dtodo](https://skwalexe.github.io/dtodo/) | 📜 Manage the tasks you want to do every day easily | [SkwalExe/dtodo](https://github.com/SkwalExe/dtodo) |
+| [Toultip.js](https://skwalexe.github.io/Toultip.js/example.html) | Create beautiful and customizable tooltips 🗨️ for your website 🎇 | [SkwalExe/Toultip.js](https://github.com/SkwalExe/Toultip.js) |
+| [game-of-life-c](https://skwalexe.github.io/game-of-life-c) | 🌟 A terminal application to simulate the Conway's game of life cellular automaton 🌟 | [SkwalExe/game-of-life-c](https://github.com/SkwalExe/game-of-life-c) |
+| [ascii-video-player](https://skwalexe.github.io/ascii-video-player) | Play videos 📺 files in real time directly in your terminal  | [SkwalExe/ascii-video-player](https://github.com/SkwalExe/ascii-video-player) |
+| [math-to-image](https://skwalexe.github.io/math-to-image) | 📐 A vscode extension to convert LaTeX code into remote image links | [SkwalExe/math-to-image](https://github.com/SkwalExe/math-to-image) |
+| [Toasteur.js](https://skwalexe.github.io/Toasteur.js/example.html) | Create beautiful and customizable toast notifications 💬 for your website ✨ - Similar to toastr.js but don't need jQuery ❌ | [SkwalExe/Toasteur.js](https://github.com/SkwalExe/Toasteur.js) |
+| [cyprint](https://skwalexe.github.io/cyprint) | Print text with typing effect ⌨️ - remake of typrint in C  | [SkwalExe/cyprint](https://github.com/SkwalExe/cyprint) |
+| [skwal.net](https://skwal.net) | 🌐 Source code of skwal.net | [SkwalExe/skwal.net](https://github.com/SkwalExe/skwal.net) |
+| [linux-on-drugs](https://skwalexe.github.io/linux-on-drugs/) | Gives custom drugs to your terminal 💊 - Output random colors really fast | [SkwalExe/linux-on-drugs](https://github.com/SkwalExe/linux-on-drugs) |
+| [apprendre-rust](https://skwalexe.github.io/apprendre-rust/) | Cours gratuits de Rust 🦀 en Francais 🇫🇷 | [SkwalExe/apprendre-rust](https://github.com/SkwalExe/apprendre-rust) |
+| [WindowsMessageBox.js](https://skwalexe.github.io/WindowsMessageBox.js/example.html) | Create Windows-like 🪟 message boxes 💬 for your website | [SkwalExe/WindowsMessageBox.js](https://github.com/SkwalExe/WindowsMessageBox.js) |
+| [learn-rust](https://skwalexe.github.io/learn-rust/) | Free Rust 🦀 course in English 🇬🇧 | [SkwalExe/learn-rust](https://github.com/SkwalExe/learn-rust) |
+| [cowTranslator.js](https://new.skwal.net/cowTranslator) | JavaScript library to translate cow language 🐄 to text  | [SkwalExe/cowTranslator.js](https://github.com/SkwalExe/cowTranslator.js) |
+| [FakeFileSystem.js](https://skwalexe.github.io/FakeFileSystem.js) | library to simulate a simple file system in javascript 💾 | [SkwalExe/FakeFileSystem.js](https://github.com/SkwalExe/FakeFileSystem.js) |
+| [skwash.js](https://skwalexe.github.io/skwash.js/example.html) | Javascript-driven 🐧 Bash-like shell 🐚 emulator 😍 | [SkwalExe/skwash.js](https://github.com/SkwalExe/skwash.js) |
+| [cmdline-parser.js](https://skwalexe.github.io/cmdline-parser.js) | cmdline-parser.js is a tool allowing you to retrieve all the information and components of a command line 🐚 | [SkwalExe/cmdline-parser.js](https://github.com/SkwalExe/cmdline-parser.js) |
+| [memz.js](https://skwal.net/memz) | 👾 Library to simulate memz-like virus in a browser | [SkwalExe/memz.js](https://github.com/SkwalExe/memz.js) |
+| [TenFastFingersBot](https://skwalexe.github.io/TenFastFingersBot/) | ⌨️ Bot for 10fastfingers.com  | [SkwalExe/TenFastFingersBot](https://github.com/SkwalExe/TenFastFingersBot) |
+| [TypeRacer-F1](https://skwalexe.github.io/TypeRacer-F1/) | 🏎️ Autotyper for typeracer.com | [SkwalExe/TypeRacer-F1](https://github.com/SkwalExe/TypeRacer-F1) |
+| [rust-logging](https://skwalexe.github.io/rust-logging) | 💬 A couple of functions to make logging in Rust easier. | [SkwalExe/rust-logging](https://github.com/SkwalExe/rust-logging) |
+| [rmini-matrix](https://skwalexe.github.io/rmini-matrix/) | 🦀 rust implementation of mini-matrix - much faster - 👨‍💻 Output random 0 and 1 or custom characters with a matrix-like effect | [SkwalExe/rmini-matrix](https://github.com/SkwalExe/rmini-matrix) |
+| [lsd-print](https://skwalexe.github.io/lsd-print/ ) | 🧪 Just a print tool, but we gave it lsd | [SkwalExe/lsd-print](https://github.com/SkwalExe/lsd-print) |
+| [mini-matrix](https://skwalexe.github.io/mini-matrix/) | 👨‍💻 Output random 0 and 1 or custom characters with a matrix-like effect | [SkwalExe/mini-matrix](https://github.com/SkwalExe/mini-matrix) |
+| [typrint](https://skwalexe.github.io/typrint) | ⌨️ Print text with a typing effect - Made with rust 🦀 | [SkwalExe/typrint](https://github.com/SkwalExe/typrint) |
+| [cow-translator](https://skwalexe.github.io/cow-translator) | Official moo translator to communicate with cows 🐮 | [SkwalExe/cow-translator](https://github.com/SkwalExe/cow-translator) |
+| [cow-encryptor](https://skwalexe.github.io/cow-encryptor) | Encrypt your files in cow language 🐄 | [SkwalExe/cow-encryptor](https://github.com/SkwalExe/cow-encryptor) |
+| [help-ukraine](https://skwalexe.github.io/help-ukraine/) | 🇺🇦 Help ukraine in the cyberwar against russia by DDOSing russia government website | [SkwalExe/help-ukraine](https://github.com/SkwalExe/help-ukraine) |
+| [Malwares](https://skwalexe.github.io/Malwares/) | 👹 Malwares and jokewares database | [SkwalExe/Malwares](https://github.com/SkwalExe/Malwares) |
+| [skwalexe.github.io](https://skwalexe.github.io/) | 💎 Personal website for my github profile | [SkwalExe/skwalexe.github.io](https://github.com/SkwalExe/skwalexe.github.io) |
+| [rust-drawing](https://skwalexe.github.io/rust-drawing) | ✏️🦀 Rust drawing allows you to draw incredible and admirable art in your terminal | [SkwalExe/rust-drawing](https://github.com/SkwalExe/rust-drawing) |
+| [dotfiles](https://skwalexe.github.io/dotfiles/) | 💠 My personal dotfiles  | [SkwalExe/dotfiles](https://github.com/SkwalExe/dotfiles) |
