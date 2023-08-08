@@ -1,3 +1,5 @@
+# READ THE BOTTOM OF THIS PAGE IF YOU SAW ME UNDER THE "USED BY" SECTION OF A REPO
+
 # Hi there 👋 ![Visitor Count](https://profile-counter.glitch.me/SkwalExe/count.svg)
 
 ![banner](banner.png)
@@ -59,10 +61,6 @@ Hello 👋 I'm Léopold Koprivnik, aka SkwalExe. I'm a 15 y/o French 🇫🇷 pr
  .`                                 `/
 ```
 
-
-
-
-
 ## Projects 🚧
 
 ![](projects.png)
@@ -110,3 +108,28 @@ Hello 👋 I'm Léopold Koprivnik, aka SkwalExe. I'm a 15 y/o French 🇫🇷 pr
 | [skwalexe.github.io](https://skwalexe.github.io/) | 💎 Personal website for my github profile | [SkwalExe/skwalexe.github.io](https://github.com/SkwalExe/skwalexe.github.io) |
 | [rust-drawing](https://skwalexe.github.io/rust-drawing) | ✏️🦀 Rust drawing allows you to draw incredible and admirable art in your terminal | [SkwalExe/rust-drawing](https://github.com/SkwalExe/rust-drawing) |
 | [dotfiles](https://skwalexe.github.io/dotfiles/) | 💠 My personal dotfiles  | [SkwalExe/dotfiles](https://github.com/SkwalExe/dotfiles) |
+
+
+
+
+## If you saw me under the "used by" section of a repo
+
+> 📄 `info` file
+
+```
+I am trying to test something. I was looking through different repositories and I noticed something extremely weird. There was always the same user under the "Used By" section of the repo. I think this "Used By" feature can be abused, I will try to display my profile under two famous repos (vim and bash). If it works then I will try to open a ticket to github if no one already did it, this seems to have went unnoticed for a long time.
+```
+
+20 minutes after writing this, I was able to make my profile appear on the Bash and Vim repositories. 
+
+![Image](image.png)
+
+I was able to confirm that I wasn't the only one seeing it by visiting the repo in incognito mode. I searched for reports of this problem and I found one. However, github didn't do anything and doesn't seem to understand the HUGE issue this is. This `Used By` feature is enabled on all public repositories and can NOT be disabled or controlled in any way.
+
+![](screenshot.png)
+
+This allows ANYONE do display arbitrary text on ANY repository which is a HUGE issue. I don't think anyone has abused this yet, but it is only a matter of time before someone does. Please consider opening a ticket to github about this issue, if enough people report it, they will have to do something about it.
+
+## -> [Report this issue](https://docs.github.com/en/support/contacting-github-support/creating-a-support-ticket)
+
+https://docs.github.com/en/support/contacting-github-support/creating-a-support-ticket

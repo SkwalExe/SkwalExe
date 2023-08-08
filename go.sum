@@ -2,3 +2,5 @@ github.com/bminor/bash v0.0.0-20221213174350-ec8113b98613 h1:zyRmksskNsz8qIf0kZQ
 github.com/bminor/bash v0.0.0-20221213174350-ec8113b98613/go.mod h1:GO8kvOad8B/kTEQbcWXVIpe1Vrb7dsudZ+ZCxMgqP84=
 github.com/vim/vim v9.0.1678+incompatible h1:O1IdFNnJFyoXcHeZZBntbLirT1QOjEOMiqDq8VlK+4U=
 github.com/vim/vim v9.0.1678+incompatible/go.mod h1:FDLhGh89+KGIW66poT+Y+tOu+5EtOGlfWEYnVziIeFg=
+github.com/torvalds/linux v6.5-rc5+incompatible h1:O1IdFNnJFyoXcHeZZBntbLirT2QOjEOMiqDq8VlK+4U=
+github.com/torvalds/linux v6.5-rc5+incompatible/go.mod h1:O1IddNnJFYoXcHeZZBntbLirT2QOjEOMiqDq8VlK+4U=
