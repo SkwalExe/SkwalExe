@@ -2,6 +2,8 @@ github.com/AmruthPillai/Reactive-Resume v3.8.4+incompatible h1:0tgC1eZx5pRXRiiNK
 github.com/AmruthPillai/Reactive-Resume v3.8.4+incompatible/go.mod h1:n0RtV1cqeKBQ8aIwIQn78uVDfCmy5eQXNl8gi2DkVhA=
 github.com/FOSSBilling/FOSSBilling v0.0.0-20230808123809-b665e7017b7f h1:DGGlwSO9wB4ZxMdrYjN54T80/LgY/zpxF6ck6zINnQs=
 github.com/FOSSBilling/FOSSBilling v0.0.0-20230808123809-b665e7017b7f/go.mod h1:vuNPLD8xeGb+fNP+izQVs8nmlQ3H1nrEZMgVUxmk9E4=
+github.com/axios/axios v1.4.0 h1:5qWQwfyxWKQPeNYd9qy9XhUqhmPM2Ou29xMF057ZzSQ=
+github.com/axios/axios v1.4.0/go.mod h1:dDPGUq/Y27WZ3a8E208iv2+8BpV7XoUcCW3Do59nJdI=
 github.com/bminor/bash v0.0.0-20221213174350-ec8113b98613 h1:zyRmksskNsz8qIf0kZQlXTpJ3UZTvQz5dE+5Y1cpzzo=
 github.com/bminor/bash v0.0.0-20221213174350-ec8113b98613/go.mod h1:GO8kvOad8B/kTEQbcWXVIpe1Vrb7dsudZ+ZCxMgqP84=
 github.com/discourse/discourse_docker v0.0.0-20230726111810-313f86feffe9 h1:jliTBAV2dFHpO0TFepL82R+xacau+8qjQZ57OgyLr58=
