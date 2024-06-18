@@ -4,17 +4,6 @@
 
 I am 15 years old and have been passionate about computer science for many years. I started by learning web development, but quickly became interested in other areas such as cybersecurity, low-level programming, and system/network administration. I have set up my own server rack in my room, with two XCP-NG virtualization servers on which I host my personal website, my emails, a private VPN, and many other things.
 
-### Monero 
-
-
-`472rHpcwBk64JE9RtNVf7zF4SfoHGcwm9CndYBaXxyYWBK9dHDPXo1qUbsiPXiU96ifveAwjVwZXCHQadVQYT1u61cozJNr`
-
----
-
-
-
-100 day streak goes *wooooooo*
-
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=SkwalExe&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
 
 
@@ -47,27 +36,25 @@ I am 15 years old and have been passionate about computer science for many years
 
 | Project | Description | Repo |
 | --- | --- | --- |
+| [textual-wizard](http://textual-wizard.skwal.net/) | Python library allowing you to ask for input using the -textual- terminal user interface | [SkwalExe/textual-wizard](https://github.com/SkwalExe/textual-wizard) |
+| [octo-logo](https://octologo.skwal.net/) | 💠 Simple logos for complex projects | [SkwalExe/octo-logo](https://github.com/SkwalExe/octo-logo) |
+| [Memz.js](https://skwal.net/memz) | 👾 Library to simulate memz-like virus in a browser | [SkwalExe/Memz.js](https://github.com/SkwalExe/Memz.js) |
 | [skwal-net-v3](https://skwal.net) | I didn't really like Django, so I'm recreating the site with Nuxt.js | [SkwalExe/skwal-net-v3](https://github.com/SkwalExe/skwal-net-v3) |
-| [octo-logo]() | 💠 Simple program that generates a logo for your open source project  | [SkwalExe/octo-logo](https://github.com/SkwalExe/octo-logo) |
+| [WinMB.js]() | 🪟 Windows-like dialogue boxes for your website | [SkwalExe/WinMB.js](https://github.com/SkwalExe/WinMB.js) |
 | [fractalistic](https://pypi.org/project/fractalistic/) | 💠 Terminal based fractal explorer, including Mandelbrot, Burning Ship, and Julia. 💠 | [SkwalExe/fractalistic](https://github.com/SkwalExe/fractalistic) |
 | [skwal-net-v2](https://skwal.net) | 🌐 Remake of skwal.net with more modern technologies, goodbye PHP, hello Python and Django | [SkwalExe/skwal-net-v2](https://github.com/SkwalExe/skwal-net-v2) |
+| [SkwalExe](https://skwal.net) | My profile readme 📃✨ | [SkwalExe/SkwalExe](https://github.com/SkwalExe/SkwalExe) |
 | [octo-folio](https://portfolio.skwal.net) | Simple portfolio site that show your profile's repos, made with Vue.js | [SkwalExe/octo-folio](https://github.com/SkwalExe/octo-folio) |
-| [textual-wizard]() | Python library allowing you to ask for input using the -textual- terminal user interface | [SkwalExe/textual-wizard](https://github.com/SkwalExe/textual-wizard) |
-| [memz.js](https://skwal.net/memz) | 👾 Library to simulate memz-like virus in a browser | [SkwalExe/memz.js](https://github.com/SkwalExe/memz.js) |
-| [Toultip.js](https://skwalexe.github.io/Toultip.js/example.html) | Create beautiful and customizable tooltips 🗨️ for your website 🎇 | [SkwalExe/Toultip.js](https://github.com/SkwalExe/Toultip.js) |
 | [Toasteur.js](https://skwalexe.github.io/Toasteur.js/example.html) | Create beautiful and customizable toast notifications 💬 for your website ✨ - Similar to toastr.js but don't need jQuery ❌ | [SkwalExe/Toasteur.js](https://github.com/SkwalExe/Toasteur.js) |
 | [MessageBox.js](https://skwalexe.github.io/MessageBox.js/example.html) | 💠 Skwal.net message box javascript library - Create beautiful and customizable message boxes 💬 for your website ✨ | [SkwalExe/MessageBox.js](https://github.com/SkwalExe/MessageBox.js) |
 | [cowTranslator.js](https://new.skwal.net/cowTranslator) | JavaScript library to translate cow language 🐄 to text  | [SkwalExe/cowTranslator.js](https://github.com/SkwalExe/cowTranslator.js) |
-| [WindowsMessageBox.js](https://skwalexe.github.io/WindowsMessageBox.js/example.html) | Create Windows-like 🪟 message boxes 💬 for your website | [SkwalExe/WindowsMessageBox.js](https://github.com/SkwalExe/WindowsMessageBox.js) |
 | [bouncing-balls]() | 🏀 Highly customizable application that simulates one or more bouncing balls in your terminal. | [SkwalExe/bouncing-balls](https://github.com/SkwalExe/bouncing-balls) |
 | [terminal-video-player]() | 🎥 Highly customizable terminal video player written in Python using OpenCV. | [SkwalExe/terminal-video-player](https://github.com/SkwalExe/terminal-video-player) |
 | [flappy](https://skwalexe.github.io/flap-python/) | 🐤 A simple terminal flappy bird game made with python | [SkwalExe/flappy](https://github.com/SkwalExe/flappy) |
 | [termatrix]() | Cool Matrix effect in your terminal | [SkwalExe/termatrix](https://github.com/SkwalExe/termatrix) |
-| [SkwalExe](https://skwal.net) | My profile readme 📃✨ | [SkwalExe/SkwalExe](https://github.com/SkwalExe/SkwalExe) |
 | [pong-python](https://skwalexe.github.io/pong-python/) | 🏓 Simple terminal pong game made with python | [SkwalExe/pong-python](https://github.com/SkwalExe/pong-python) |
 | [sorting-algorithms](https://skwalexe.github.io/sorting-algorithms) | 📶 Sorting algorithms visualizer - in your terminal! | [SkwalExe/sorting-algorithms](https://github.com/SkwalExe/sorting-algorithms) |
 | [langton-ant-c]() | A terminal Langton's Ant cellular automaton simulator 🐜 | [SkwalExe/langton-ant-c](https://github.com/SkwalExe/langton-ant-c) |
-| [les-maths](https://skwalexe.github.io/les-maths) | 📐 Cours de maths gratuits en francais 🇫🇷 | [SkwalExe/les-maths](https://github.com/SkwalExe/les-maths) |
 | [snake-python](https://SkwalExe.github.io/snake-python) | A simple snake game made with python 🐍 | [SkwalExe/snake-python](https://github.com/SkwalExe/snake-python) |
 | [dtodo](https://skwalexe.github.io/dtodo/) | 📜 Manage the tasks you want to do every day easily | [SkwalExe/dtodo](https://github.com/SkwalExe/dtodo) |
 | [game-of-life-c](https://skwalexe.github.io/game-of-life-c) | 🌟 A terminal application to simulate the Conway's game of life cellular automaton 🌟 | [SkwalExe/game-of-life-c](https://github.com/SkwalExe/game-of-life-c) |
@@ -87,3 +74,4 @@ I am 15 years old and have been passionate about computer science for many years
 | [cow-encryptor](https://skwalexe.github.io/cow-encryptor) | Encrypt your files in cow language 🐄 | [SkwalExe/cow-encryptor](https://github.com/SkwalExe/cow-encryptor) |
 | [rust-drawing](https://skwalexe.github.io/rust-drawing) | ✏️🦀 Rust drawing allows you to draw incredible and admirable art in your terminal | [SkwalExe/rust-drawing](https://github.com/SkwalExe/rust-drawing) |
 | [dotfiles-old](https://skwalexe.github.io/dotfiles/) | 💠 My personal dotfiles  | [SkwalExe/dotfiles-old](https://github.com/SkwalExe/dotfiles-old) |
+
