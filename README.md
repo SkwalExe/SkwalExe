@@ -7,7 +7,7 @@
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/SkwalExe?style=flat&color=yellow">
     <img alt="GitHub Profile Counter" src="https://komarev.com/ghpvc/?username=SkwalExe&color=red">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fskwal.net&label=skwal.net">
-
+    <img alt="Wakatime" src="https://wakatime.com/badge/user/76205aa1-14ff-4941-b8f2-8ad9881b5ad4.svg">
 </p>
 
 ![banner](banner.png)
