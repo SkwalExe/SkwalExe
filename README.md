@@ -20,7 +20,7 @@
 - my emails ([Mailcow](https://github.com/mailcow/mailcow-dockerized))
 - an [Immich](https://github.com/immich-app/immich) instance
 - a private VPN ([OpenVPN](https://github.com/OpenVPN/openvpn))
-- and many other things.
+- and many otheerr things...
 
 <img alt="SkwalExe's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SkwalExe&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
